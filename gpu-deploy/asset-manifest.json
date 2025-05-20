@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mon-site-affiliation-gaming/static/css/main.2db8c168.css",
+    "main.js": "/mon-site-affiliation-gaming/static/js/main.1ac853e3.js",
+    "static/js/453.cce9ad94.chunk.js": "/mon-site-affiliation-gaming/static/js/453.cce9ad94.chunk.js",
+    "static/media/background.jpg": "/mon-site-affiliation-gaming/static/media/background.dffacd3d4ec355a50215.jpg",
+    "index.html": "/mon-site-affiliation-gaming/index.html",
+    "main.2db8c168.css.map": "/mon-site-affiliation-gaming/static/css/main.2db8c168.css.map",
+    "main.1ac853e3.js.map": "/mon-site-affiliation-gaming/static/js/main.1ac853e3.js.map",
+    "453.cce9ad94.chunk.js.map": "/mon-site-affiliation-gaming/static/js/453.cce9ad94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db8c168.css",
+    "static/js/main.1ac853e3.js"
+  ]
+}
